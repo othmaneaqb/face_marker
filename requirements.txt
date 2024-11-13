@@ -1,0 +1,7 @@
+pandas 
+numpy 
+opencv-python
+face-recognition
+pygame
+streamlit 
+openpyxl
