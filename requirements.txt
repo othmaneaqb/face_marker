@@ -1,7 +1,6 @@
-pandas 
-numpy 
+streamlit
+face_recognition
 opencv-python
-face-recognition
+numpy
+pandas
 pygame
-streamlit 
-openpyxl
